@@ -1,5 +1,10 @@
 # Website We Care
+
+## Site em telas padrões de monitor
 ![Captura de Tela](IMG/print.png)
+
+## Site em telas de celular (com resposividade)
+![Captura de Tela](IMG/print2.png)
 
 ## Índice
 - [Introdução](#introdução)
